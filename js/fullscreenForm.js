@@ -33,6 +33,7 @@
 	 * createElement function
 	 * creates an element with tag = tag, className = opt.cName, innerHTML = opt.inner and appends it to opt.appendTo
 	 */
+	// Function to create an Element
 	function createElement( tag, opt ) {
 		var el = document.createElement( tag )
 		if( opt ) {
