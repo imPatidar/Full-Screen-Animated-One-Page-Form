@@ -1,6 +1,5 @@
 /**
  * fullscreenForm.js v1.0.0
- * Licensed under the MIT license.
  
  */
 ;( function( window ) {
